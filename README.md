@@ -1,2 +1,2 @@
-# Turma-Pensamento-Computacional
-Minha pasta
+# Turma-Pensamento-Computacional 1 A
+Minha pasta 
