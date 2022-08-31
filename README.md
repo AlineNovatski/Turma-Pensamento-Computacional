@@ -1,2 +1,2 @@
-# turmapensamentocomputacional1a      
+# turmapensamentocomputacional1A      
 minhapasta
